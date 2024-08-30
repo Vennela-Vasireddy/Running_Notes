@@ -14,7 +14,8 @@ In this repository, you can find links to the running notes of the concepts that
 > **DevOps Knowledge Book** - [Link](https://docs.google.com/document/d/10f2f9OY5spIjY_WiViUZK_q38fAK8AWpExL_2Rumwz0/edit?usp=sharing)
 
 
-I don't claim that you will learn everything from these knowledge books, but you will gain an understanding of how things work. I would appreciate hearing your thoughts or feedback. 
-You can reach me via email at *vennelavaasireddy@gmail.com*
+These knowledge books showcase my understanding of the topics I learned while I was studying. I don't claim that you will learn everything from these knowledge books, but you will gain an understanding of how things work. 
+
+<mark>I would appreciate hearing your thoughts or feedback. You can reach me via email at *vennelavaasireddy@gmail.com*</mark>
 
 
